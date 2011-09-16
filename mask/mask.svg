@@ -38,9 +38,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.22"
-     inkscape:cx="557.53365"
-     inkscape:cy="396.39676"
+     inkscape:zoom="1.7253405"
+     inkscape:cx="500.82975"
+     inkscape:cy="395.77159"
      inkscape:document-units="in"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -67,6 +67,14 @@
        visible="true"
        enabled="false"
        snapvisiblegridlinesonly="true" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="366.3045,563.36704"
+       id="guide4006" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="708.19672,393.44262"
+       id="guide4008" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -227,5 +235,17 @@
          y="0"
          x="0" />
     </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 366.3045,164.49876 0,347.17784 0,0 0,0"
+       id="path4010"
+       inkscape:connector-curvature="0"
+       transform="translate(0,308.26527)" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 708.19672,162.18038 0,346.59824"
+       id="path4012"
+       inkscape:connector-curvature="0"
+       transform="translate(0,308.26527)" />
   </g>
 </svg>

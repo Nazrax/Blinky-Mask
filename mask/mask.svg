@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1052.3622"
+   height="744.09448"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.1 r9760"
+   sodipodi:docname="mask.svg">
+  <defs
+     id="defs4">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3907">
+      <rect
+         style="fill:none;stroke:#ff0000;stroke-width:0.99000001;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="rect3909"
+         width="889.53162"
+         height="387.70493"
+         x="145.71429"
+         y="472.85156"
+         transform="matrix(0,-1,1,0,0,0)" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.86267027"
+     inkscape:cx="565.16527"
+     inkscape:cy="309.14087"
+     inkscape:document-units="in"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     units="in"
+     inkscape:window-width="1680"
+     inkscape:window-height="973"
+     inkscape:window-x="1680"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3077"
+       empspacing="5"
+       visible="true"
+       enabled="false"
+       snapvisiblegridlinesonly="true" />
+    <inkscape:grid
+       type="axonomgrid"
+       id="grid3108"
+       units="mm"
+       empspacing="5"
+       visible="true"
+       enabled="false"
+       snapvisiblegridlinesonly="true" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="mask picture"
+     style="display:none">
+    <image
+       style="display:inline"
+       y="-1041.3149"
+       x="331.4422"
+       id="image3074"
+       xlink:href="file:///home/aabraham/dev/avr/BlinkyMask/mask/bethanysmask.png"
+       height="1057.5"
+       width="741.28528"
+       transform="matrix(0,1,-1,0,-63.934426,-338.59316)"
+       clip-path="url(#clipPath3907)" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Schematic"
+     style="display:inline">
+    <image
+       style="display:inline"
+       y="260.44629"
+       x="375.84015"
+       id="image3012"
+       xlink:href="file:///home/aabraham/dev/avr/BlinkyMask/mask/schematic.png"
+       height="225"
+       width="323.39999" />
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-308.26527)"
+     style="display:inline">
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 81.779864,628.58924 c 0,0 46.721306,0 0,0 C 109.71116,601.81328 192.2865,442.52366 534.42623,442.52366 l 0,357.37705 C 211.74822,896.84369 145.3669,706.5947 81.779864,628.58924 z"
+       id="path3890"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:tile-cx="372.03748"
+       inkscape:tile-cy="343.27481"
+       inkscape:tile-w="452.64637"
+       inkscape:tile-h="357.37705"
+       inkscape:tile-x0="145.71429"
+       inkscape:tile-y0="164.58628" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#path3890"
+       xlink:href="#path3890"
+       transform="matrix(-1,0,0,1,1068.8525,-3.8476545e-7)"
+       id="use3903"
+       style="stroke:#ff0000;stroke-opacity:1"
+       width="1052.3622"
+       height="744.09448" />
+    <g
+       id="g3921"
+       inkscape:tile-cx="311.5327"
+       inkscape:tile-cy="327.87175"
+       inkscape:tile-w="445.70911"
+       inkscape:tile-h="388.18314"
+       inkscape:tile-x0="88.678146"
+       inkscape:tile-y0="133.78018">
+      <rect
+         transform="translate(0,308.26527)"
+         y="337.21829"
+         x="412.67215"
+         height="111.28238"
+         width="33.61655"
+         id="rect3917"
+         style="fill:none;stroke:#ff0000;stroke-width:0.99000001;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <rect
+         transform="translate(0,308.26527)"
+         y="133.78018"
+         x="88.678146"
+         height="388.18314"
+         width="445.70911"
+         id="rect3919"
+         style="fill:none;stroke:#ff0000;stroke-width:0.99000001;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#g3921"
+       xlink:href="#g3921"
+       transform="matrix(-1,0,0,1,1068.7745,0)"
+       id="use3927" />
+  </g>
+</svg>

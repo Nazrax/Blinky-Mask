@@ -39,8 +39,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.7253405"
-     inkscape:cx="500.82975"
-     inkscape:cy="395.77159"
+     inkscape:cx="693.85504"
+     inkscape:cy="404.22266"
      inkscape:document-units="in"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -73,7 +73,7 @@
        id="guide4006" />
     <sodipodi:guide
        orientation="1,0"
-       position="708.19672,393.44262"
+       position="714.34428,410.14345"
        id="guide4008" />
   </sodipodi:namedview>
   <metadata
@@ -84,7 +84,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -108,7 +108,7 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="Schematic"
-     style="display:inline">
+     style="display:none">
     <image
        style="display:inline"
        y="260.44629"
@@ -237,15 +237,13 @@
     </g>
     <path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 366.3045,164.49876 0,347.17784 0,0 0,0"
+       d="m 354.13298,472.61913 0,347.17784 0,0 0,0"
        id="path4010"
-       inkscape:connector-curvature="0"
-       transform="translate(0,308.26527)" />
+       inkscape:connector-curvature="0" />
     <path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 708.19672,162.18038 0,346.59824"
+       d="m 719.74797,471.11012 0,346.59824"
        id="path4012"
-       inkscape:connector-curvature="0"
-       transform="translate(0,308.26527)" />
+       inkscape:connector-curvature="0" />
   </g>
 </svg>

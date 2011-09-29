@@ -1,3 +1,5 @@
+#define F_CPU 1000000
+
 #include <avr/io.h>
 #include <avr/sleep.h>
 #include <avr/interrupt.h>
@@ -10,6 +12,8 @@ int main(void) {
   DDRB = _BV(DDB2) | _BV(DDB3) | _BV(DDB4);
 
   // Enable the pin change interrupts
+  GIMSK = _BV(PCIE);
+  PCMSK = _BV(PCINT0) | _BV(PCINT1);
 
   sei();
 

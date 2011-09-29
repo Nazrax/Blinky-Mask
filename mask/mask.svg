@@ -38,9 +38,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.7253405"
-     inkscape:cx="693.85504"
-     inkscape:cy="404.22266"
+     inkscape:zoom="3.450681"
+     inkscape:cx="517.69974"
+     inkscape:cy="341.01922"
      inkscape:document-units="in"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -125,7 +125,8 @@
      transform="translate(0,-308.26527)"
      style="display:inline">
     <g
-       id="g3943">
+       id="g3943"
+       transform="matrix(1.0427094,0,0,1,-26.422235,8.1967215)">
       <path
          inkscape:tile-y0="164.58628"
          inkscape:tile-x0="145.71429"
@@ -136,7 +137,7 @@
          sodipodi:nodetypes="ccccc"
          inkscape:connector-curvature="0"
          id="path3890"
-         d="m 81.779864,628.58924 c 0,0 46.721306,0 0,0 C 109.71116,601.81328 192.2865,442.52366 534.42623,442.52366 l 0,357.37705 C 211.74822,896.84369 145.3669,706.5947 81.779864,628.58924 z"
+         d="m 81.779864,628.58924 c 0,0 46.721306,0 0,0 C 109.71116,601.81328 192.2865,442.52366 534.42623,442.52366 l -1.15919,335.35241 C 243.04639,928.14186 145.3669,706.5947 81.779864,628.58924 z"
          style="fill:none;stroke:#ff0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
       <use
          height="744.09448"
@@ -146,92 +147,6 @@
          transform="matrix(-1,0,0,1,1068.8525,-3.8476545e-7)"
          xlink:href="#path3890"
          inkscape:tiled-clone-of="#path3890"
-         y="0"
-         x="0" />
-    </g>
-    <g
-       id="g3921"
-       inkscape:tile-cx="311.5327"
-       inkscape:tile-cy="327.87175"
-       inkscape:tile-w="445.70911"
-       inkscape:tile-h="388.18314"
-       inkscape:tile-x0="88.678146"
-       inkscape:tile-y0="133.78018">
-      <rect
-         transform="translate(0,308.26527)"
-         y="337.21829"
-         x="412.67215"
-         height="111.28238"
-         width="33.61655"
-         id="rect3917"
-         style="fill:none;stroke:#ff0000;stroke-width:0.99000001;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-      <rect
-         transform="translate(0,308.26527)"
-         y="133.78018"
-         x="88.678146"
-         height="388.18314"
-         width="445.70911"
-         id="rect3919"
-         style="fill:none;stroke:#ff0000;stroke-width:0.99000001;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-    </g>
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#g3921"
-       xlink:href="#g3921"
-       transform="matrix(-1,0,0,1,1068.7745,0)"
-       id="use3927" />
-    <g
-       transform="matrix(1.05101,0,0,1.1380934,-27.46312,-88.383754)"
-       style="display:inline"
-       id="g3943-8">
-      <path
-         inkscape:tile-y0="164.58628"
-         inkscape:tile-x0="145.71429"
-         inkscape:tile-h="357.37705"
-         inkscape:tile-w="452.64637"
-         inkscape:tile-cy="343.27481"
-         inkscape:tile-cx="372.03748"
-         sodipodi:nodetypes="ccccc"
-         inkscape:connector-curvature="0"
-         id="path3890-3"
-         d="m 81.779864,628.58924 c 0,0 46.721306,0 0,0 C 109.71116,601.81328 192.2865,442.52366 534.42623,442.52366 l 0,357.37705 C 211.74822,896.84369 145.3669,706.5947 81.779864,628.58924 z"
-         style="fill:none;stroke:#ff0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-      <use
-         height="744.09448"
-         width="1052.3622"
-         style="stroke:#ff0000;stroke-opacity:1"
-         id="use3903-8"
-         transform="matrix(-1,0,0,1,1068.8525,-3.8476545e-7)"
-         xlink:href="#path3890-3"
-         inkscape:tiled-clone-of="#path3890-3"
-         y="0"
-         x="0" />
-    </g>
-    <g
-       transform="matrix(1.1035605,0,0,1.2811829,-55.547487,-179.1981)"
-       style="display:inline"
-       id="g3943-8-6">
-      <path
-         inkscape:tile-y0="164.58628"
-         inkscape:tile-x0="145.71429"
-         inkscape:tile-h="357.37705"
-         inkscape:tile-w="452.64637"
-         inkscape:tile-cy="343.27481"
-         inkscape:tile-cx="372.03748"
-         sodipodi:nodetypes="ccccc"
-         inkscape:connector-curvature="0"
-         id="path3890-3-1"
-         d="m 81.779864,628.58924 c 0,0 46.721306,0 0,0 C 109.71116,601.81328 192.2865,442.52366 534.42623,442.52366 l 0,357.37705 C 211.74822,896.84369 145.3669,706.5947 81.779864,628.58924 z"
-         style="fill:none;stroke:#ff0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-      <use
-         height="744.09448"
-         width="1052.3622"
-         style="stroke:#ff0000;stroke-opacity:1"
-         id="use3903-8-3"
-         transform="matrix(-1,0,0,1,1068.8525,-3.8476545e-7)"
-         xlink:href="#path3890-3-1"
-         inkscape:tiled-clone-of="#path3890-3-1"
          y="0"
          x="0" />
     </g>
@@ -245,5 +160,46 @@
        d="m 719.74797,471.11012 0,346.59824"
        id="path4012"
        inkscape:connector-curvature="0" />
+    <g
+       style="display:inline"
+       id="g3943-4"
+       transform="matrix(1.0923872,0,0,1.1160847,-52.81269,-65.609695)">
+      <path
+         inkscape:tile-y0="164.58628"
+         inkscape:tile-x0="145.71429"
+         inkscape:tile-h="357.37705"
+         inkscape:tile-w="452.64637"
+         inkscape:tile-cy="343.27481"
+         inkscape:tile-cx="372.03748"
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path3890-9"
+         d="m 81.779864,628.58924 c 0,0 46.721306,0 0,0 C 109.71116,601.81328 192.2865,442.52366 534.42623,442.52366 l -1.15919,335.35241 C 243.04639,928.14186 145.3669,706.5947 81.779864,628.58924 z"
+         style="fill:none;stroke:#ff0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <use
+         height="744.09448"
+         width="1052.3622"
+         style="stroke:#ff0000;stroke-opacity:1"
+         id="use3903-1"
+         transform="matrix(-1,0,0,1,1068.8525,-3.8476545e-7)"
+         xlink:href="#path3890-9"
+         inkscape:tiled-clone-of="#path3890-9"
+         y="0"
+         x="0" />
+    </g>
+    <rect
+       style="fill:none;stroke:#ff0000;stroke-width:1.40916097;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3000"
+       width="43.590839"
+       height="133.59084"
+       x="401.20456"
+       y="630.06433" />
+    <rect
+       style="fill:none;stroke:#ff0000;stroke-width:1.40916097;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       id="rect3000-3"
+       width="43.590839"
+       height="133.59084"
+       x="617.20459"
+       y="630.06433" />
   </g>
 </svg>
